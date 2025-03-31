@@ -1,0 +1,6 @@
+Control Vaults 
+3: Las Vegas, Nevada (Failed)
+8: Northern Nevada (Opened successfully)
+13: Southern California (Emptied 2242)
+76: The Forest, Appalachia (Opened successfully)
+
