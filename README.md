@@ -1,2 +1,2 @@
-# fallout-termlink
+# PoseidoNET
 Fallout Terminal Emulator
