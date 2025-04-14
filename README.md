@@ -1,2 +1,2 @@
-# PoseidoNET
+# WarGames (PoseidoNET)
 Fallout Terminal Emulator
